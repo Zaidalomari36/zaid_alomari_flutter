@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674567562892",
+    "project_id": "juniorstudentguide",
+    "storage_bucket": "juniorstudentguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674567562892:android:a34293b9e7355550d0bda9",
+        "android_client_info": {
+          "package_name": "com.example.exr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674567562892-0hhdlbfuv2fevtjdce1d058tm9s5hmpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7TknYawptDR8tU3_fz0HysWE19p7kVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674567562892-0hhdlbfuv2fevtjdce1d058tm9s5hmpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
